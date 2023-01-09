@@ -1,5 +1,5 @@
 # POTD
 
-##Javascript-POTD
+## Javascript-POTD
 
-##Solidity-POTD
+## Solidity-POTD
