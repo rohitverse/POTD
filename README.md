@@ -1,4 +1,4 @@
-# POTD
+# POTD-PracticeOfTheDay/ProblemOfTheDay
 
 ## Javascript-POTD
 
